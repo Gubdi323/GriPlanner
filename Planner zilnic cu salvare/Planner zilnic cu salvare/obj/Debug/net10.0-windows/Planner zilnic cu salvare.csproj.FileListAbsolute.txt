@@ -1,0 +1,17 @@
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\bin\Debug\net10.0-windows\Planner zilnic cu salvare.exe
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\bin\Debug\net10.0-windows\Planner zilnic cu salvare.deps.json
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\bin\Debug\net10.0-windows\Planner zilnic cu salvare.runtimeconfig.json
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\bin\Debug\net10.0-windows\Planner zilnic cu salvare.dll
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\bin\Debug\net10.0-windows\Planner zilnic cu salvare.pdb
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner_zilnic_cu_salvare.GabiForm1.resources
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.csproj.GenerateResource.cache
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.AssemblyInfoInputs.cache
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.AssemblyInfo.cs
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.csproj.CoreCompileInputs.cache
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.dll
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\refint\Planner zilnic cu salvare.dll
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.pdb
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner zilnic cu salvare.genruntimeconfig.cache
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\ref\Planner zilnic cu salvare.dll
+C:\Users\tomag\OneDrive\Desktop\Practica\Planner zilnic cu salvare\Planner zilnic cu salvare\Planner zilnic cu salvare\obj\Debug\net10.0-windows\Planner_zilnic_cu_salvare.Properties.Resources.resources
